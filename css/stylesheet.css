@@ -2,10 +2,22 @@ h3 {
     text-decoration: underline;
 }
 
+.container {
+    background-color: antiquewhite;
+}
+
 .about-me {
     color: blue;
 }
 
 .about-me p {
     background-color: aqua;
+}
+
+li {
+    font-size: 35px;
+}
+
+.photos-description {
+    width: 40vw;
 }
