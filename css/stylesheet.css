@@ -8,6 +8,15 @@ h3 {
 
 .about-me {
     color: blue;
+    border: 10px solid black;
+    margin-top: 3px;
+    margin-bottom: 9px;
+}
+
+.places-ive-been {
+    border: 10px solid salmon;
+    margin-top: 3px;
+    margin-bottom: 9px;
 }
 
 .about-me p {
@@ -19,5 +28,8 @@ li {
 }
 
 .photos-description {
+    border: 10px solid green;
     width: 40vw;
+    margin-top: 3px;
+    margin-bottom: 9px;    
 }
